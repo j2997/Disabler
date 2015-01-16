@@ -1,0 +1,22 @@
+C:\Users\Jeffrey Pearson\Projects\C#\New folder\Disabler\Disabler\Disabler\bin\Debug\Disabler.exe.config
+C:\Users\Jeffrey Pearson\Projects\C#\New folder\Disabler\Disabler\Disabler\bin\Debug\Disabler.exe
+C:\Users\Jeffrey Pearson\Projects\C#\New folder\Disabler\Disabler\Disabler\bin\Debug\Disabler.pdb
+C:\Users\Jeffrey Pearson\Projects\C#\New folder\Disabler\Disabler\Disabler\obj\Debug\Disabler.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey Pearson\Projects\C#\New folder\Disabler\Disabler\Disabler\obj\Debug\Disabler.Form1.resources
+C:\Users\Jeffrey Pearson\Projects\C#\New folder\Disabler\Disabler\Disabler\obj\Debug\Disabler.Properties.Resources.resources
+C:\Users\Jeffrey Pearson\Projects\C#\New folder\Disabler\Disabler\Disabler\obj\Debug\Disabler.csproj.GenerateResource.Cache
+C:\Users\Jeffrey Pearson\Projects\C#\New folder\Disabler\Disabler\Disabler\obj\Debug\Disabler.exe
+C:\Users\Jeffrey Pearson\Projects\C#\New folder\Disabler\Disabler\Disabler\obj\Debug\Disabler.pdb
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Debug\Disabler.Form1.resources
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Debug\Disabler.Properties.Resources.resources
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Debug\Disabler.csproj.GenerateResource.Cache
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Debug\Disabler.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\bin\Debug\Disabler 2.exe.config
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\bin\Debug\Disabler 2.exe.manifest
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\bin\Debug\Disabler 2.application
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\bin\Debug\Disabler 2.exe
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\bin\Debug\Disabler 2.pdb
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Debug\Disabler 2.exe.manifest
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Debug\Disabler 2.application
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Debug\Disabler 2.exe
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Debug\Disabler 2.pdb

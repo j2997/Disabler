@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MC Mod Manager.exe" version="1.0.0.1" publicKeyToken="4137d5d0daac5bfc" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="mcfile.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MC Mod Manager" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="MC Mod Manager.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MC Mod Manager.exe" size="21504">
+      <assemblyIdentity name="MC Mod Manager" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ynEvN8MwuPoLaxjSBCRbXRI9iGZO/Dnt0uTdmsAhu0w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="MC Mod Manager.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mcfile.ico" size="766">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>AJi0qCL0NlrYiXWlw0NY4P1fAfjGhYqQQd0QzoFfHO0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Moonbeam\Jeffrey Pearson" issuerKeyHash="c5cbf8d472a44e54fcb0faf444ea98f334b2c978" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Gas1O0HkHHkmUBIjFq9vvy6MUyZVwtZJsh5B6QBLsN0=</DigestValue></Reference></SignedInfo><SignatureValue>S0ZTqhwuS/OJn8P7Vzdw566ecT8iqHZH687eyHomaD04e9mP/o9obYkGKhk6nxga8PooU5uh3snK7zWMrcXCqBgqV9iPr7I4I/arwnKhZmHZ3teGSe2MsR2jZd2qY6JVEDXdGGb5DDHngjbz7zkj/ubp5qwQlewcvbMApavjyxo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tz9c2fla9TqDfegpq2GGS3IPUtzWfEQucpJjepuyvnwG6aLoR0f/tIwYUn5GNoG5I5YvY1UA/YpuwytbxK2Q3LYsdICcxkCQtIXB3R1XhdgvETXbNaLyxmfjaq5TOQUVOXaZaUiPSwfqIx3a1eT9ZcT1FPP9lf7lkhpXwVCDXs8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ddb04b00e9411eb249d6c25526538c2ebf6faf1623125026791ce4413b35ab19" Description="" Url=""><as:assemblyIdentity name="MC Mod Manager.exe" version="1.0.0.1" publicKeyToken="4137d5d0daac5bfc" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Moonbeam\Jeffrey Pearson</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Pf30xylZRi74jTBfswupDQkKcJuTOtTi5kzX5Z9dIs4=</DigestValue></Reference></SignedInfo><SignatureValue>EkIDdfqQjllhMVyetF2ZdK3MkUeVOicVsCGMbqjUHqgFymyR78fiLN4kMR3HvQyzPd9iawMYN2R0VZzmNwnjQUo/oMW6kEJrE6k7fGoYjt85+p9JeX80qFSlbS/Nv/h/WUE9mZg0UoQEfjfBkWEbC89dMuwGm3eJHaDXiS7IjvI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tz9c2fla9TqDfegpq2GGS3IPUtzWfEQucpJjepuyvnwG6aLoR0f/tIwYUn5GNoG5I5YvY1UA/YpuwytbxK2Q3LYsdICcxkCQtIXB3R1XhdgvETXbNaLyxmfjaq5TOQUVOXaZaUiPSwfqIx3a1eT9ZcT1FPP9lf7lkhpXwVCDXs8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQVz9CN07UpKBAAHlgfs+R8jANBgkqhkiG9w0BAQsFADA7MTkwNwYDVQQDHjAATQBvAG8AbgBiAGUAYQBtAFwASgBlAGYAZgByAGUAeQAgAFAAZQBhAHIAcwBvAG4wHhcNMTQxMTI2MDYxMzQ1WhcNMTUxMTI2MTIxMzQ1WjA7MTkwNwYDVQQDHjAATQBvAG8AbgBiAGUAYQBtAFwASgBlAGYAZgByAGUAeQAgAFAAZQBhAHIAcwBvAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALc/XNn5WvU6g33oKathhktyD1Lc1nxELnKSY3qbsr58Bumi6EdH/7SMGFJ+RjaBuSOWL2NVAP2KbsMrW8StkNy2LHSAnMZAkLSFwd0dV4XYLxE12zWi8sZn42quUzkFFTl2mWlIj0sH6iMd2tXk/WXE9RTz/ZX+5ZIaV8FQg17PAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAHMMuSPdw8sAimI/iNf6wjxMKYaMhmMmyy5jJPnUgLy/4HQwfCcj+ppv0QxknSS4YsFQHo4mFvg5JqehBA3qoJyE8KDMYlBcT9XGVoX5hNEuUyaie8sdIH+uL2as4oHNPVJZvBb1eiN+t4LJDHneI4JzPSwctDLCPb5Vx/Wtc8rU=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

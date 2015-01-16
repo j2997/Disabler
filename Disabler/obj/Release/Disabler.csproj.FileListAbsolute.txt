@@ -1,0 +1,13 @@
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\bin\Release\MC Mod Manager.exe.config
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\bin\Release\MC Mod Manager.exe
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\bin\Release\MC Mod Manager.pdb
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Release\Disabler.Form1.resources
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Release\Disabler.Properties.Resources.resources
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Release\Disabler.csproj.GenerateResource.Cache
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Release\MC Mod Manager.exe
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Release\MC Mod Manager.pdb
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\bin\Release\MC Mod Manager.exe.manifest
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\bin\Release\MC Mod Manager.application
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Release\Disabler.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Release\MC Mod Manager.exe.manifest
+C:\Users\Jeffrey Pearson\Google Drive\Programming\C#\Disabler\Disabler\Disabler\obj\Release\MC Mod Manager.application
