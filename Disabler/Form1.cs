@@ -497,9 +497,11 @@ namespace Disabler
             }
         }
 
-        //Clean this function up, get rid of repeated code
+        //Clean this function up, get rid of repeated code, and make it work at all
+        //Get a keypress when things are seleced using the select all buttons
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
+            /*
             if(e.KeyCode == Keys.Delete)
                 if (lastEnabledList.SelectedIndices.Count > 0)
                 {
@@ -518,7 +520,7 @@ namespace Disabler
                         delete(disableList, false);
                         GetPaths();
                     }
-                }
+                }*/
         }
     }
 }
